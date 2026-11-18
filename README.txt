@@ -33,7 +33,7 @@ El caso práctico consistió en el despliegue y configuración integral de una m
 
 ## 🔗 Enlaces del Proyecto
 
-* **Repositorio oficial en GitHub:** [Ver Repositorio en GitHub](https://github.com/IvanRamirez1996/TPI-AySO-Virtualizaci-n)
+* **Repositorio oficial en GitHub:** [Ver Repositorio en GitHub](https://github.com/mateoolivero/Trabajo-Pr-ctico-Integrador-Virtualizaci-n-con-VirtualBox)
 * **Video Explicativo:** [Ver Grabación en Google Drive](https://drive.google.com/file/d/1KEcyxFU4RXP1cJsI_FPZ7WyeQHxcdWVf/view?usp=sharing)
 
 ---
